@@ -137,7 +137,7 @@
                 <tr>
                   <th>Nomor Antrian</th>
                   <th>Status</th>
-                  <th>Panggil</th>
+                  <th>Panggilan</th>
                 </tr>
               </thead>
             </table>
